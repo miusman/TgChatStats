@@ -1,6 +1,8 @@
 результаты/
 main.exe
 config.json
+package-lock.json
+result.json
 
 # Logs
 logs
